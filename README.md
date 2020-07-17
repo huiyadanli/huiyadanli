@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-Hi, I'm [huiyadanli](www.huiyadan.com), a back-end 🌐 developer.
+Hi, I'm [huiyadanli](https://www.huiyadan.com), a back-end 🌐 developer.
 
 💬 Ask me about anything [here](https://github.com/huiyadanli/huiyadanli/issues).
 
