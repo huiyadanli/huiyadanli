@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
- <img align='right' src='https://github-readme-stats.vercel.app/api?username=huiyadanli&show_icons=true&&theme=default&hide=["contribs"]' /> 
+ <img align='right' src='https://github-readme-stats.vercel.app/api?username=huiyadanli&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
 
 Hi, I'm [huiyadanli](https://www.huiyadan.com), a back-end 🌐 developer.
 
