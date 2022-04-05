@@ -6,6 +6,8 @@ Hi, I'm [huiyadanli](https://www.huiyadan.com), a back-end 🌐 developer.
 
 💬 Ask me about anything [here](https://github.com/huiyadanli/huiyadanli/issues).
 
+❤️ 通过 [爱发电](https://afdian.net/@huiyadanli) 支持我
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=huiyadanli.huiyadanli)
 
 
