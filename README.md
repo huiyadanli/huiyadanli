@@ -6,7 +6,7 @@ Hi, I'm [huiyadanli](https://www.huiyadan.com), a back-end 🌐 developer.
 
 💬 Ask me about anything [here](https://github.com/huiyadanli/huiyadanli/issues).
 
-❤️ 投喂渠道：[⚡爱发电](https://afdian.net/@huiyadanli) or [🍚微信赞赏](https://github.com/huiyadanli/huiyadanli/blob/master/DONATE.md)</del>
+❤️ 投喂渠道：[⚡爱发电](https://afdian.com/@huiyadanli) or [🍚微信赞赏](https://github.com/huiyadanli/huiyadanli/blob/master/DONATE.md)</del>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=huiyadanli.huiyadanli)
 
