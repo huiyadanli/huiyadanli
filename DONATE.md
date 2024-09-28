@@ -2,4 +2,4 @@
 
 <img width="200" src="https://raw.githubusercontent.com/huiyadanli/huiyadanli/master/asset/wechat.png">
 
-其他投喂渠道：[⚡爱发电](https://afdian.net/@huiyadanli)
+其他投喂渠道：[⚡爱发电](https://afdian.com/@huiyadanli)
