@@ -4,9 +4,9 @@
 
 Hi, I'm [huiyadanli](https://www.huiyadan.com), a back-end 🌐 developer.
 
-💬 Ask me about anything [here](https://github.com/huiyadanli/huiyadanli/issues).
+- <img src='https://github.com/user-attachments/assets/830f9d78-a85c-4d62-be5e-cc0af727eabe' width='15px' /> Ask me about anything [here](https://github.com/huiyadanli/huiyadanli/issues).
 
-❤️ 投喂渠道：[⚡爱发电](https://afdian.com/@huiyadanli) or [🍚微信赞赏](https://github.com/huiyadanli/huiyadanli/blob/master/DONATE.md)</del>
+- <img src='https://github.com/user-attachments/assets/4292a134-34e9-487a-97c0-4f9f827bfdde' width='16px' /> 投喂渠道：[⚡爱发电](https://afdian.com/@huiyadanli) or [🍚微信赞赏](https://github.com/huiyadanli/huiyadanli/blob/master/DONATE.md)</del>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=huiyadanli.huiyadanli)
 
