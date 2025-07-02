@@ -8,6 +8,11 @@ Hi, I'm [huiyadanli](https://www.huiyadan.com), a back-end 🌐 developer.
 
 - <img src='https://github.com/user-attachments/assets/4292a134-34e9-487a-97c0-4f9f827bfdde' width='16px' /> 投喂渠道：[⚡爱发电](https://afdian.com/@huiyadanli) or [🍚微信赞赏](https://github.com/huiyadanli/huiyadanli/blob/master/DONATE.md)</del>
 
+
+<a href="https://trendshift.io/developers/8860" target="_blank" ><img  align='right' src="https://trendshift.io/api/badge/developers/8860" alt="huiyadanli | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
+
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=huiyadanli.huiyadanli)
 
 <details>
