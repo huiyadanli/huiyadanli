@@ -1,4 +1,4 @@
-<img align='right' src='https://github-readme-stats.vercel.app/api?username=huiyadanli&show_icons=true&&theme=default&hide=["contribs"]&&hide_title=true' /> 
+<img align='right' src='https://github-stats-extended.vercel.app/api?username=huiyadanli&hide_title=true&show_icons=true&include_all_commits=true' /> 
 
 ### ![Hello World!](https://glitch-art.vercel.app/api/simple?word={Hello%20World}) 👋
 
